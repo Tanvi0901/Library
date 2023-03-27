@@ -1,0 +1,15 @@
+*{
+    background-image: url('pexels-monstera-6373305.jpg');
+}
+p{
+    text-align: center;
+    padding-top: 18%;
+    color: black;
+    font-size: 50px;
+}
+i{
+    justify-content: center;
+}
+/* img{
+    padding-left: 30%;
+} */
